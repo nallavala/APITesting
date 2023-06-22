@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2867" started-at="2023-05-31T21:21:44 IST" finished-at="2023-05-31T21:21:47 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2867" started-at="2023-05-31T21:21:44 IST" finished-at="2023-05-31T21:21:47 IST">
+      <class name="apiPackage.Requests">
+        <test-method status="PASS" signature="getUsers()[pri:0, instance:apiPackage.Requests@28ac3dc3]" name="getUsers" duration-ms="2821" started-at="2023-05-31T21:21:44 IST" finished-at="2023-05-31T21:21:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUsers -->
+      </class> <!-- apiPackage.Requests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
